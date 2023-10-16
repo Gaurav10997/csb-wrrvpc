@@ -1,0 +1,2 @@
+body{font-family:sans-serif;height:500vh;width:500vh;background-color:#ff0;position:relative}.box{width:100px;height:100px;background-color:red;margin:20px}.box1{position:sticky;width:100%;height:110px;background-color:#00f;top:0}.box2{position:absolute;bottom:0;animation-name:loader;animation-duration:3s;animation-iteration-count:infinite;animation-timing-function:linear}@keyframes loader{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}
+/*# sourceMappingURL=/csb-wrrvpc/src.ff752f85.css.map */
